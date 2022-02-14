@@ -1,0 +1,13 @@
+{
+    "name": "node-project",
+    "author": "Kili",
+    "description": "It is a test project",
+    "keywords": ["test", "node"],
+    "license": "MIT",
+    "version": "0.0.0",
+    "dependencies": {
+        "express": "^4.17.2",
+        "chartjs": "~0.3.24",
+        "sass": "1.49.7"
+    }
+}
